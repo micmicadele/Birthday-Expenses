@@ -15,7 +15,7 @@ This Python program helps users estimate the total cost of a birthday celebratio
 - Provides a summary indicating whether the total cost is within or exceeds the budget.
 
 ## How to Use
-1. **Run the Program**: Run the Python script (`birthdayexpenses.py`) using a Python interpreter.
+1. **Run the Program**: Run the Python script (`birthdayexpenses.py`) in your preferred IDE.
 2. **Enter Costs**: The program will prompt you to enter costs for the five categories (venue, catering, decorations, entertainment, miscellaneous).
 3. **View Summary**: The program will display the total estimated cost and indicate if it is within the predefined budget.
 
